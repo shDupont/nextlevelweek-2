@@ -1,0 +1,9 @@
+.container-fluid{
+    height: 100vh;
+    color: white;
+}
+
+.btn {
+    text-transform: unset !important;
+  }
+
